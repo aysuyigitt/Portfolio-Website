@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\myportfolyo\\myportfolyo\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|solutionrelative:myportfolyo\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\myportfolyo\\myportfolyo\\views\\shared\\components\\_aboutcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|solutionrelative:myportfolyo\\views\\shared\\components\\_aboutcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\myportfolyo\\myportfolyo\\views\\shared\\components\\_contactcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|solutionrelative:myportfolyo\\views\\shared\\components\\_contactcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\myportfolyo\\myportfolyo\\views\\shared\\components\\_workcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|solutionrelative:myportfolyo\\views\\shared\\components\\_workcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\myportfolyo\\myportfolyo\\views\\shared\\components\\_expierencecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|solutionrelative:myportfolyo\\views\\shared\\components\\_expierencecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\myportfolyo\\myportfolyo\\wwwroot\\img\\undraw_dev-focus_dd7i.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|solutionrelative:myportfolyo\\wwwroot\\img\\undraw_dev-focus_dd7i.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\myportfolyo\\myportfolyo\\wwwroot\\img\\undraw_programmer_raqr.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|solutionrelative:myportfolyo\\wwwroot\\img\\undraw_programmer_raqr.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\myportfolyo\\myportfolyo\\viewcomponents\\_headcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|solutionrelative:myportfolyo\\viewcomponents\\_headcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\myportfolyo\\myportfolyo\\views\\shared\\components\\_headcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|solutionrelative:myportfolyo\\views\\shared\\components\\_headcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\myportfolyo\\myportfolyo\\viewcomponents\\_aboutcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|solutionrelative:myportfolyo\\viewcomponents\\_aboutcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\myportfolyo\\myportfolyo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|solutionrelative:myportfolyo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\myportfolyo\\myportfolyo\\dal\\entities\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|solutionrelative:myportfolyo\\dal\\entities\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\myportfolyo\\myportfolyo\\dal\\context\\myportfolyocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|solutionrelative:myportfolyo\\dal\\context\\myportfolyocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\myportfolyo\\myportfolyo\\dal\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|solutionrelative:myportfolyo\\dal\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\myportfolyo\\myportfolyo\\dal\\entities\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|solutionrelative:myportfolyo\\dal\\entities\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\myportfolyo\\myportfolyo\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E00ED3A-36F4-4FC1-9E03-A7875D1BCB92}|MyPortfolyo\\MyPortfolyo.csproj|solutionrelative:myportfolyo\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\Views\\Shared\\Components\\_ExpierenceComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolyo\\Views\\Shared\\Components\\_ExpierenceComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\Views\\Shared\\Components\\_ExpierenceComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolyo\\Views\\Shared\\Components\\_ExpierenceComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T17:15:53.866Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "undraw_dev-focus_dd7i.png - PNG [1942x1256, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\wwwroot\\img\\undraw_dev-focus_dd7i.png",
+              "RelativeDocumentMoniker": "MyPortfolyo\\wwwroot\\img\\undraw_dev-focus_dd7i.png",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\wwwroot\\img\\undraw_dev-focus_dd7i.png - PNG [1942x1256, 32 bit, PNG]",
+              "RelativeToolTip": "MyPortfolyo\\wwwroot\\img\\undraw_dev-focus_dd7i.png - PNG [1942x1256, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-24T17:32:00.858Z",
+              "EditorCaption": " - PNG [1942x1256, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "undraw_programmer_raqr.png - PNG [1440x1439, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\wwwroot\\img\\undraw_programmer_raqr.png",
+              "RelativeDocumentMoniker": "MyPortfolyo\\wwwroot\\img\\undraw_programmer_raqr.png",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\wwwroot\\img\\undraw_programmer_raqr.png - PNG [1440x1439, 32 bit, PNG]",
+              "RelativeToolTip": "MyPortfolyo\\wwwroot\\img\\undraw_programmer_raqr.png - PNG [1440x1439, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-24T17:31:55.184Z",
+              "EditorCaption": " - PNG [1440x1439, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\Views\\Shared\\Components\\_WorkComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolyo\\Views\\Shared\\Components\\_WorkComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\Views\\Shared\\Components\\_WorkComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolyo\\Views\\Shared\\Components\\_WorkComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T17:16:00.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\Views\\Shared\\Components\\_AboutComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolyo\\Views\\Shared\\Components\\_AboutComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\Views\\Shared\\Components\\_AboutComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolyo\\Views\\Shared\\Components\\_AboutComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T17:15:48.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\Views\\Shared\\Components\\_ContactComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolyo\\Views\\Shared\\Components\\_ContactComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\Views\\Shared\\Components\\_ContactComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolyo\\Views\\Shared\\Components\\_ContactComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T17:14:59.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolyo\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "MyPortfolyo\\Views\\Default\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T12:28:54.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\Views\\Shared\\Components\\_HeadComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolyo\\Views\\Shared\\Components\\_HeadComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\Views\\Shared\\Components\\_HeadComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolyo\\Views\\Shared\\Components\\_HeadComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T10:49:51.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_HeadComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\ViewComponents\\_HeadComponentPartial.cs",
+              "RelativeDocumentMoniker": "MyPortfolyo\\ViewComponents\\_HeadComponentPartial.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\ViewComponents\\_HeadComponentPartial.cs",
+              "RelativeToolTip": "MyPortfolyo\\ViewComponents\\_HeadComponentPartial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T11:33:00.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_AboutComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\ViewComponents\\_AboutComponentPartial.cs",
+              "RelativeDocumentMoniker": "MyPortfolyo\\ViewComponents\\_AboutComponentPartial.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\ViewComponents\\_AboutComponentPartial.cs",
+              "RelativeToolTip": "MyPortfolyo\\ViewComponents\\_AboutComponentPartial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T11:14:15.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\Program.cs",
+              "RelativeDocumentMoniker": "MyPortfolyo\\Program.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\Program.cs",
+              "RelativeToolTip": "MyPortfolyo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T11:12:27.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\DAL\\Entities\\About.cs",
+              "RelativeDocumentMoniker": "MyPortfolyo\\DAL\\Entities\\About.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\DAL\\Entities\\About.cs",
+              "RelativeToolTip": "MyPortfolyo\\DAL\\Entities\\About.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:06:15.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "MyPortfolyo\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "MyPortfolyo\\Controllers\\DefaultController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:28:31.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MyPortfolyoContext.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\DAL\\Context\\MyPortfolyoContext.cs",
+              "RelativeDocumentMoniker": "MyPortfolyo\\DAL\\Context\\MyPortfolyoContext.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\DAL\\Context\\MyPortfolyoContext.cs",
+              "RelativeToolTip": "MyPortfolyo\\DAL\\Context\\MyPortfolyoContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:25:41.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\DAL\\Entities\\Contact.cs",
+              "RelativeDocumentMoniker": "MyPortfolyo\\DAL\\Entities\\Contact.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\DAL\\Entities\\Contact.cs",
+              "RelativeToolTip": "MyPortfolyo\\DAL\\Entities\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:21:42.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SocialMedia.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\DAL\\Entities\\SocialMedia.cs",
+              "RelativeDocumentMoniker": "MyPortfolyo\\DAL\\Entities\\SocialMedia.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\MyPortfolyo\\MyPortfolyo\\DAL\\Entities\\SocialMedia.cs",
+              "RelativeToolTip": "MyPortfolyo\\DAL\\Entities\\SocialMedia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:21:27.674Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

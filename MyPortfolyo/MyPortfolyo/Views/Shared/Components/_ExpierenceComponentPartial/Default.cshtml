@@ -1,0 +1,27 @@
+﻿@model List<MyPortfolyo.DAL.Entities.Experience>
+
+<section id="services" class="py-5 bg-light">
+    <div class="container">
+        <h2 class="text-center mb-5">Deneyimlerim</h2>
+        <div class="row g-4" style="background-color: black">
+            @foreach (var item in Model)
+            {
+                <!-- İlk Kart -->
+                <div class="col-md-4">
+                    <div class="card h-100 text-center shadow-sm border-0">
+                    <div class="card-body">
+                        <img src="@item.Image" alt="UX/UI Icon" class="mb-4 img-fluid rounded-circle border border-secondary" style="width: 100px; height: 100px; object-fit: cover;">
+                        <h5 class="card-title fw-bold">@item.Title</h5>
+                        <p class="card-text">
+                            @item.Description
+                        </p>
+                    </div>
+                </div>
+            </div>
+            }
+
+
+           
+        </div>
+    </div>
+</section>

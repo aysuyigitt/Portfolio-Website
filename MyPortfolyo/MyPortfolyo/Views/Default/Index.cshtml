@@ -1,0 +1,99 @@
+﻿
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+
+<html class="no-js" lang="en">
+
+@await Component.InvokeAsync("_HeadComponentPartial")
+
+
+<body style="background-image: url('/img/undraw_programmer_raqr.png');
+             background-size: contain;
+
+             background-color: white;
+             background-repeat: no-repeat;
+             background-position: right center;
+             height: 100vh;
+             margin: 0;">
+
+
+
+    @await Component.InvokeAsync("_NavbarComponentPartial")
+
+
+    @await Component.InvokeAsync("_AboutComponentPartial")
+    
+    @await Component.InvokeAsync("_ExpierenceComponentPartial")
+
+   
+
+    <style>
+       
+        .card {
+            border: none;
+            border-radius: 15px; 
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
+            transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
+            background-color: #f9f9f9; 
+        }
+
+            .card:hover {
+                transform: scale(1.05); 
+                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2); 
+                background-color: #d4edda 
+            }
+
+        .card-body img {
+            width: 80px;
+            height: 80px;
+            margin-bottom: 15px;
+            transition: transform 0.3s ease; 
+        }
+
+        .card:hover img {
+            transform: rotate(10deg); 
+        }
+
+        .card-title {
+            font-size: 1.6rem;
+            color: #333;
+            margin-bottom: 15px;
+            font-weight: 700;
+        }
+
+        .card-text {
+            color: #555;
+            font-size: 0.95rem;
+            margin-bottom: 1.2rem;
+            line-height: 1.5;
+        }
+
+        .btn-dark {
+            font-weight: bold;
+            padding: 0.5rem 1.5rem;
+            background-color: #333;
+            border-radius: 50px; 
+            transition: all 0.3s ease;
+        }
+
+            .btn-dark:hover {
+                background-color: #555;
+                transform: translateY(-5px); 
+            }
+    </style>
+
+
+
+    @await Component.InvokeAsync("_WorkComponentPartial")
+
+    @await Component.InvokeAsync("_ContactComponentPartial")
+    
+               
+
+    
+    <!-- Bootstrap JS dosyasını dahil etme -->
+    <script src="~/js/bootstrap.bundle.min.js"></script>
+    </body>
+</html>

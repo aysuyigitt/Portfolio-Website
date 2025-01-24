@@ -1,0 +1,27 @@
+﻿@model List<MyPortfolyo.DAL.Entities.Portfolio>
+<section id="works" class="container py-5" >
+    <div class="row text-center mb-4">
+        <div class="col">
+            <h1>Çalışmalarım</h1>
+            <p class="text-muted">Çalışmalarım, edindiğim teorik bilgileri pratiğe dönüştürme ve yazılım geliştirme süreçlerindeki yetkinliklerimi artırma odaklı projelerden oluşmaktadır.</p>
+        </div>
+    </div>
+    <div class="row g-4" style="background-color:black; border-radius:15px">
+    @foreach(var item in Model){
+    
+        <div class="col-md-4">
+            <div class="card h-100 text-center">
+                <img src="@item.Image" class="card-img-top" alt="Şifre Güvenliği Ölçen Web Sayfası Projesi">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Title</h5>
+                </div>
+                <div class="card-footer">
+                    <a href="@item.ImageUrl" class="btn btn-primary">Detaylı İncele</a>
+                </div>
+            </div>
+        </div>
+        }
+
+        
+    </div>
+</section>
